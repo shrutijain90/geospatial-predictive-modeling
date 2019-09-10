@@ -4,7 +4,7 @@ library(rgdal)
 library(gdalUtils)
 library(MODIS)
 
-setwd("C:/Users/Saurabh Khanna/Box Sync/Laptop data/Downloaded/Fraym-Shruti")
+setwd("C:/Users/Shruti Jain/Box Sync/Laptop data/Downloaded/Fraym-Shruti")
 
 # data file with y labels
 cust <- read.csv("data/customer_profiles_final.csv")
