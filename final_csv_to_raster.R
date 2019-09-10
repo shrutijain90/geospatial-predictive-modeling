@@ -1,7 +1,7 @@
 library(raster)
 library(rgdal)
 
-setwd("C:/Users/Saurabh Khanna/Box Sync/Laptop data/Downloaded/Fraym-Shruti/")
+setwd("C:/Users/Shruti Jain/Box Sync/Laptop data/Downloaded/Fraym-Shruti/")
 
 kenya_pred <- read.csv("data/kenya_pred.csv", header = TRUE)
 
