@@ -4,4 +4,4 @@
 
 2. predictive_models.ipynb contains models trained on aggregated spatial data 
 
-3. csv_to_raster.R converts final model predictions over kenya into a geospatial raster
+3. csv_to_raster.R converts final model predictions over Kenya into a geospatial raster
